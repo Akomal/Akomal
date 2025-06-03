@@ -1,6 +1,5 @@
 - 👋 Hi, I’m komal 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently building Data Engineering skills
+- 👀 I’m currently building Data Engineering skills
 - 💞️ I’m looking to collaborate on Data Engineering Projects
 
 <!---
